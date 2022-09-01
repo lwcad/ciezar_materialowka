@@ -1,0 +1,11 @@
+document.write("<OPTION selected>[kg]") ;
+document.write("<OPTION>[dag]") ;
+document.write("<OPTION>[g]") ;
+document.write("<OPTION>[lb]") ;
+document.write("<OPTION>[oz]") ;
+document.write("<OPTION>[ct]") ;
+document.write("<OPTION>[gr]") ;
+document.write("<OPTION>[cwt]") ;
+document.write("<OPTION>[cwtUK]") ;
+document.write("<OPTION>[tonUS]") ;
+document.write("<OPTION>[tonUK]") ;
